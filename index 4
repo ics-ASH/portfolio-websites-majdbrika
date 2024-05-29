@@ -1,0 +1,22 @@
+<html> 
+    <h1>Contact</h1>
+    <body style="background-color: rgb(14, 225, 14);">
+    <p>Welcome to my website.</p>
+    <html>
+<body>
+
+<h2>Enter your first and last name if you have any suggestion about improving the website!</h2>
+
+<form action="/action_page.php">
+  <label for="fname">First name:</label><br>
+  <input type="text" id="fname" name="fname" value="John"><br>
+  <label for="lname">Last name:</label><br>
+  <input type="text" id="lname" name="lname" value="Doe"><br><br>
+  <input type="submit" value="Submit">
+</form> 
+
+<p>Thank you for reaching out.</p>
+
+</body>
+</html>
+
